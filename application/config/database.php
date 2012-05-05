@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'db_host';
-$db['default']['username'] = 'db_user';
-$db['default']['password'] = 'db_pass';
-$db['default']['database'] = 'db_name';
+$db['default']['hostname'] = 'mysql-shared-02.phpfog.com';
+$db['default']['username'] = 'Chris-794-40042';
+$db['default']['password'] = 'EG91c76O73Ai';
+$db['default']['database'] = 'greatwhite_phpfogapp_com';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
